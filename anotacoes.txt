@@ -1,2 +1,4 @@
 minha primeira anotacao
 segunda alteracao
+efetuei uma alteracao apos ir para uma versao anterior do repositorio 
+
